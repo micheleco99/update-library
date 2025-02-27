@@ -1,0 +1,17 @@
+{
+  "name": "update-librerie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "dotenv": "^16.4.4",
+    "simple-git": "^3.22.0"
+  }
+}

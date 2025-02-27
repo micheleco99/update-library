@@ -1,0 +1,18 @@
+{
+  "@isp/xdce-widget": "1.125.0",
+  "@isp/xdce-arch-core": "1.51.0",
+  "@isp/xdce-arch-core-base": "1.21.8",
+  "@isp/xdce-module-cjhub-widget": "1.159.0",
+  "@isp/xdce-dispo-darwin": "1.7.9",
+  "@isp/xdce-dispo-darwin-corporate": "1.11.0",
+  "@isp/xdce-module-commondigitalwidget-v1": "4.52.0",
+  "@isp/xdce-module-npc-widget": "3.59.0",
+  "@isp/npc-arch-plug-impl": "3.80.0",
+  "@isp/npc-ui": "3.106.0",
+  "@isp/xdce-module-common-contrdigitali": "1.340.0",
+  "@isp/xdce-module-cib-oadself-v1": "1.153.0",
+  "@isp/xdce-module-fcj-common-widget": "1.97.0",
+  "@isp/mcclient-chrome-lib": "1.1.1",
+  "contesto-tecnologico-lib": "0.0.6",
+  "rxjs-compat": "6.3.3"
+}
