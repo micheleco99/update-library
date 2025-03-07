@@ -9,8 +9,8 @@ const createLibUpdateBranch = true;
 const mergeInBranch = true;
 const buildLocals = false;
 const repos = [
-    'npc-deploy-arch',
-    'xdce-module-fcj-common-widget',
+    //'npc-deploy-arch',
+    //'xdce-module-fcj-common-widget',
     'xdce-module-fcj-accounts-v1',
     'xdce-module-fcj-confirming-v1',
     'xdce-module-fcj-contracts-v1',
